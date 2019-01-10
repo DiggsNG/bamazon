@@ -1,2 +1,14 @@
-# bamazon
+# Bamazon
 Bamazon,the amazon competitor.
+
+## Bamazon - Retail Application
+  The purpose of this document is to provide a an overview of the Bamazon retail applicaiton. It is a direct retail competitor to a very famous internet retailer, Amazon. Bamazon, provides access to retail services throught Node.js and MySql functionality. 
+In order to access this appliation users will need to follow these simple steps, and review the following referrence images:
+
+- Enter node bamazonCustomer.js
+- Enter an Item_ID of a product you wish to purchase
+- Enter quantity of items you which to purchase.
+- *Note: If you enter an amount greater then the quantity available, you will receive an Insufficent quantiy message. Also,if you 
+- *do not enter a valid item_id you will receive an Error message. 
+
+Please review the following images for additional detail:
