@@ -10,5 +10,9 @@ In order to access this appliation users will need to follow these simple steps,
 - Enter quantity of items you which to purchase.
 - *Note: If you enter an amount greater then the quantity available, you will receive an Insufficent quantiy message. Also,if you 
 - *do not enter a valid item_id you will receive an Error message. 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 Please review the following images for additional detail:
+
+![Retail Menu #1] (/images/menu1a.png)
